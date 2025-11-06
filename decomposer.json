@@ -6,7 +6,8 @@
         "psr4": {
             "prefix": "Lunr\\Halo",
             "search-path": "/src/Lunr/Halo/"
-        }
+        },
+        "development-only": true
     },
     "Lunr.Corona": {
         "url": "https://github.com/lunr-php/lunr.corona.git",
@@ -22,5 +23,40 @@
                 "search-path": "/src/Lunr/Shadow/"
             }
         ]
+    },
+    "Lunr.Ticks": {
+        "url": "https://github.com/lunr-php/lunr.ticks.git",
+        "version": "0.13.0",
+        "revision": "master",
+        "psr4": {
+            "prefix": "Lunr\\Ticks",
+            "search-path": "/src/Lunr/Ticks/"
+        }
+    },
+    "Aura.Filter": {
+        "url": "https://github.com/auraphp/Aura.Filter.git",
+        "version": "3.90.1",
+        "revision": "4.x",
+        "psr4": {
+            "prefix": "Aura\\Filter",
+            "search-path": "/src/"
+        }
+    },
+    "Aura.Filter_Interface": {
+        "url": "https://github.com/auraphp/Aura.Filter_Interface.git",
+        "version": "3.90.1",
+        "revision": "4.x",
+        "psr4": {
+            "prefix": "Aura\\Filter_Interface",
+            "search-path": "/src/"
+        }
+    },
+    "Mockery": {
+        "url": "https://github.com/mockery/mockery.git",
+        "version": "1.6.12",
+        "psr0": {
+            "path": "/library/"
+        },
+        "development-only": true
     }
 }

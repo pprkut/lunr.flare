@@ -8,10 +8,13 @@
   "minimum-stability": "dev",
   "require": {
     "php": ">=8.3",
+    "aura/filter-interface": "4.x-dev",
+    "aura/filter": "4.x-dev",
     "lunr/corona": "dev-master"
   },
   "require-dev": {
     "lunr/halo": "dev-master",
+    "mockery/mockery": "~1.6",
     "phpunit/phpunit": ">=10.5 <11.0",
     "ext-xdebug": "~3.1"
   },

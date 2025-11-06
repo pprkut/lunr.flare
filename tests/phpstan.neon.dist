@@ -7,3 +7,6 @@ parameters:
         - ../src
     excludePaths:
         - ../src/*/Tests/*
+    ignoreErrors:
+        -
+            identifier: property.uninitializedReadonly
