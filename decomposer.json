@@ -2,7 +2,6 @@
     "Lunr.Halo": {
         "url": "https://github.com/lunr-php/lunr.halo.git",
         "version": "0.12.0",
-        "revision": "master",
         "psr4": {
             "prefix": "Lunr\\Halo",
             "search-path": "/src/Lunr/Halo/"
@@ -12,7 +11,6 @@
     "Lunr.Corona": {
         "url": "https://github.com/lunr-php/lunr.corona.git",
         "version": "0.13.0",
-        "revision": "master",
         "psr4": [
             {
                 "prefix": "Lunr\\Corona",
@@ -27,7 +25,6 @@
     "Lunr.Ticks": {
         "url": "https://github.com/lunr-php/lunr.ticks.git",
         "version": "0.13.0",
-        "revision": "master",
         "psr4": {
             "prefix": "Lunr\\Ticks",
             "search-path": "/src/Lunr/Ticks/"
@@ -36,7 +33,7 @@
     "Aura.Filter": {
         "url": "https://github.com/auraphp/Aura.Filter.git",
         "version": "3.90.1",
-        "revision": "4.x",
+        "revision": "56157d3dfdee5a7e12fa9980ffff6225352ace2b",
         "psr4": {
             "prefix": "Aura\\Filter",
             "search-path": "/src/"
@@ -45,7 +42,7 @@
     "Aura.Filter_Interface": {
         "url": "https://github.com/auraphp/Aura.Filter_Interface.git",
         "version": "3.90.1",
-        "revision": "4.x",
+        "revision": "00a67f02b134e3be833a8ae992bc38fbd43355c7",
         "psr4": {
             "prefix": "Aura\\Filter_Interface",
             "search-path": "/src/"
